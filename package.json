@@ -1,0 +1,19 @@
+{
+  "name": "one-anothers-burdens",
+  "version": "1.0.0",
+  "description": "A gospel companion for those who love someone who is suffering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/build.mjs",
+    "site": "node scripts/site.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "html-to-docx": "^1.8.0",
+    "marked": "^12.0.2"
+  }
+}
